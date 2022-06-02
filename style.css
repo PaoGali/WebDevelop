@@ -1,0 +1,21 @@
+#grip-container{
+    display: grid;
+    background-color: antiquewhite;
+}
+
+#header {
+
+
+}
+
+#barra-menu{
+    text-decoration: none;
+
+}
+
+#opciones{
+    text-decoration: none;
+    text-align: center;
+    
+}
+
